@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/antithugcorona/static/css/main.1880aec1.chunk.css",
+    "main.js": "/antithugcorona/static/js/main.7b006b3d.chunk.js",
+    "main.js.map": "/antithugcorona/static/js/main.7b006b3d.chunk.js.map",
+    "runtime-main.js": "/antithugcorona/static/js/runtime-main.cadedfaa.js",
+    "runtime-main.js.map": "/antithugcorona/static/js/runtime-main.cadedfaa.js.map",
+    "static/js/2.a6bebb53.chunk.js": "/antithugcorona/static/js/2.a6bebb53.chunk.js",
+    "static/js/2.a6bebb53.chunk.js.map": "/antithugcorona/static/js/2.a6bebb53.chunk.js.map",
+    "static/js/3.c097e548.chunk.js": "/antithugcorona/static/js/3.c097e548.chunk.js",
+    "static/js/3.c097e548.chunk.js.map": "/antithugcorona/static/js/3.c097e548.chunk.js.map",
+    "index.html": "/antithugcorona/index.html",
+    "static/css/main.1880aec1.chunk.css.map": "/antithugcorona/static/css/main.1880aec1.chunk.css.map",
+    "static/js/2.a6bebb53.chunk.js.LICENSE.txt": "/antithugcorona/static/js/2.a6bebb53.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/antithugcorona/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cadedfaa.js",
+    "static/js/2.a6bebb53.chunk.js",
+    "static/css/main.1880aec1.chunk.css",
+    "static/js/main.7b006b3d.chunk.js"
+  ]
+}
